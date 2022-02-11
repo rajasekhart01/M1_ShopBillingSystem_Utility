@@ -2,14 +2,14 @@
 
 ## Folder Structure
 
-`0_Certificates`
+`0_Certificates`                    - Certificates added
 
-`1_Requiremets`
+`1_Requiremets`                     - Intro, Features, Adv & Disadv
 
-`2_Architecture`
+`2_Architecture`                    - Flowchart & behavioural diagram
+ 
+`3_implementations`                 - Code
 
-`3_Design`
+`4_Test Plan and Output`            - Output
 
-`4_Test Plan and Output`
-
-`5_Report`
+`5_Report`                          - Report
