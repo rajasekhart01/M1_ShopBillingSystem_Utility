@@ -2,7 +2,7 @@
 
 ## Out Put 
 
-**My VS Code application is not working properly, Itried in many ways but could not find the solution, so i just added the output here**
+**My VS Code application is not working properly, I tried in many ways but could not find the solution, so i just added the output here**
 
 
 ![Screenshot (42)](https://user-images.githubusercontent.com/98815258/153602239-c41f3c9a-4677-4739-b76d-871718660729.png)
