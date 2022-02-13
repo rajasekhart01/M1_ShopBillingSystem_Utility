@@ -3,6 +3,12 @@
    <img src="https://api.codiga.io/public/badge/user/github/rajasekhart01?style=light" alt="codiga badge" />
 </a>
 
+
+[![Code Grade](https://api.codiga.io/project/<PROJECT_IDENTIFIER>/score/svg)](https://www.codiga.io)
+
+[![Code Grade](https://api.codiga.io/project/<PROJECT_IDENTIFIER>/status/svg)](https://www.codiga.io)
+
+
 ## Folder Structure
 
 `0_Certificates`                    - Certificates added
