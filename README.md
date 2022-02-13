@@ -4,9 +4,7 @@
 </a>
 https://api.codiga.io/project/31304/score/svg
 
-[![Code Grade](https://api.codiga.io/project/<PROJECT_IDENTIFIER>/score/svg)](https://www.codiga.io)
 
-[![Code Grade](https://api.codiga.io/project/<PROJECT_IDENTIFIER>/status/svg)](https://www.codiga.io)
 
 
 ## Folder Structure
