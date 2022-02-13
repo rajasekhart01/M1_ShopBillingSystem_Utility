@@ -1,6 +1,7 @@
 # M1_ShopBillingSystem_Utility
-
-[![Code Grade](https://api.codiga.io/project/<PROJECT_IDENTIFIER>/score/svg)](https://www.codiga.io)
+<a href="https://app.codiga.io/public/user/github/rajasekhart01">
+   <img src="https://api.codiga.io/public/badge/user/github/rajasekhart01?style=light" alt="codiga badge" />
+</a>
 
 ## Folder Structure
 
