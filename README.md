@@ -2,7 +2,10 @@
 <a href="https://app.codiga.io/public/user/github/rajasekhart01">
    <img src="https://api.codiga.io/public/badge/user/github/rajasekhart01?style=light" alt="codiga badge" />
 </a>
-![Codiga1] https://api.codiga.io/project/31304/score/svg
+![codiga1](https://user-images.githubusercontent.com/98815258/153749019-0ac0a8e8-7690-4818-b744-4cf42a9ef572.svg)
+![codiga2](https://user-images.githubusercontent.com/98815258/153749026-f5f29656-0982-40a0-aaf3-b1d5620d3260.svg)
+
+
 
 
 
