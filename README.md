@@ -1,5 +1,7 @@
 # M1_ShopBillingSystem_Utility
 
+[![Code Grade](https://api.codiga.io/project/<PROJECT_IDENTIFIER>/score/svg)](https://www.codiga.io)
+
 ## Folder Structure
 
 `0_Certificates`                    - Certificates added
