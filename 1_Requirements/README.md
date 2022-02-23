@@ -11,15 +11,21 @@
 
 
   ## High Level Requirements
-1) Taking Quantity
-2) Calculations
-3) Generating Bill
-[HLR.xlsx](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/files/8101327/HLR.xlsx)
+  <br>
+| ID | Description | Status |
+|----|-------------|--------|
+| HLR01 |Taking Quantity     | Implemented |
+| HLR02 | Calculations       | Implemented |
+| HLR02 | Bill Generation    | Implemented |
 
 ## Low Level Requirements
-1) Tax calculation
-2) No of products
-3) Displaying Different Products 
+  <br>
+| ID | Description | Status |
+|----|-------------|--------|
+| HLR01 |Tax Calculation    | Implemented |
+| HLR02 | Date              | Implemented |
+| HLR02 | Name of Admin & Customer  | Implemented |
+
 
 ## Advantages
 1) Time Saving 
