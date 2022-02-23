@@ -1,2 +1,0 @@
-- name: Codiga GitHub action
-  uses: codiga/github-action@v1
