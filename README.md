@@ -1,5 +1,6 @@
 # M1_ShopBillingSystem_Utility
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9a4ba1f72c714da78ac0291d7c63e345)](https://app.codacy.com/gh/rajasekhart01/M1_ShopBillingSystem_Utility?utm_source=github.com&utm_medium=referral&utm_content=rajasekhart01/M1_ShopBillingSystem_Utility&utm_campaign=Badge_Grade_Settings)
 [![cppcheck-action](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/actions/workflows/cppcheck.yml)
 
 
