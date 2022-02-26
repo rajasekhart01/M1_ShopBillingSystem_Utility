@@ -2,11 +2,7 @@
 
 [![cppcheck-action](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/actions/workflows/cppcheck.yml)
 
-<br>
-
 [![Git Inspector](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/actions/workflows/git_inspector.yml)
-
-<br>
 
 <a href="https://app.codiga.io/public/user/github/rajasekhart01">
    <img src="https://api.codiga.io/public/badge/user/github/rajasekhart01?style=light" alt="codiga badge" />
