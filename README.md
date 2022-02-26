@@ -17,6 +17,8 @@
 
 ![codiga2](https://user-images.githubusercontent.com/98815258/153749026-f5f29656-0982-40a0-aaf3-b1d5620d3260.svg)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f49d43eb9a184e4b996c962bd20cc0c8)](https://www.codacy.com/gh/rajasekhart01/M1_ShopBillingSystem_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rajasekhart01/M1_ShopBillingSystem_Utility&amp;utm_campaign=Badge_Grade)
+
 
 
 <br>
