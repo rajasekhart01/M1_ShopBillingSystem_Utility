@@ -3,4 +3,7 @@ all:
 
 run: 
 	Billing.exe
+	
+clean:
+	rm -rf *.o *.out *.i *.s
 

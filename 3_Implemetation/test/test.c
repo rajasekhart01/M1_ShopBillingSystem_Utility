@@ -25,6 +25,6 @@ int main()
 
 void test_login (void)
 {   
-    TEST_ASSERT_EQUAL(-1,login());
+    UNITY_TEST_ASSERT_EQUAL_INT((-1), (login()), __LINE__, NULL);
 }
 
