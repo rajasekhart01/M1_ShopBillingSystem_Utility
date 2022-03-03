@@ -5,7 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/3_Implemetation/inc",
                 "${workspaceFolder}/3_Implemetation/src",
-                "${workspaceFolder}/3_Implemetation"
+                "${workspaceFolder}/3_Implemetation",
+                "${workspaceFolder}/3_Implemetation/unity"
             ],
             "defines": [
                 "_DEBUG",
