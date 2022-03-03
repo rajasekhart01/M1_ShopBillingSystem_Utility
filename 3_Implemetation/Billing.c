@@ -91,7 +91,7 @@ int main()
 
 //	Calculation Statements
    void billgeneration();
-   {
+    {
 	total_tea = teaQTY * Tea_PRICE;
 	total_specialtea = specialteaQTY * SpecialTea_PRICE;
 	total_coffee = coffeeQTY * Coffee_PRICE;
