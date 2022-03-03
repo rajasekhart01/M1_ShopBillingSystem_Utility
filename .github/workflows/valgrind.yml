@@ -19,4 +19,4 @@ jobs:
     - name: make test
       run: make -C 3_Implemetation/test
     - name: Valgrind
-      run: make -C 3_Implemetation/ valgrind
+      run: make -C 3_Implemetation/valgrind
