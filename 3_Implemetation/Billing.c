@@ -1,6 +1,6 @@
 #include "stdio.h"
 #include "conio.h"
-#include "bill.h"
+#include "inc/bill.h"
 
 #define Tea_PRICE 10.00
 #define SpecialTea_PRICE 20.00
@@ -8,9 +8,10 @@
 #define Milk_PRICE 15.00
 
 int main(void)
-{
+ {
+	
 
-//	Local Declarations
+//Local Declarations
 
 	const double Buscuit_PRICE = 10.00;
 	const double Bun_PRICE = 5.00;
@@ -76,6 +77,7 @@ int main(void)
 	printf("\n Press Enter To Get the Bill");
 	getch();
 
+
 printf("\n\n\n\t\t\t\t\tLOADING \n\t\t\t\t\t");
 int a;
    	for( a=1;a<8;a++) // Change 'a<?' to how many * we want
@@ -97,7 +99,12 @@ void billgeneration();
 	tax = (subTotal * taxRate)/100;
 	bill_Amount = subTotal + tax;
 
+
 //	Printing Bills
+    //void login();
+    //void quantity();
+	//void billgeneration();
+  
     printf("\n");
     printf("\t\t\t====================================================\n");
 	printf("\t\t\t\t      Raja Tea Stall Bill\n");
@@ -119,7 +126,8 @@ void billgeneration();
 	printf("\t\t\t                           date          %s     \n", date);
 	printf("\t\t\t====================================================\n\n");
 	printf("\t\t\t\t\t\tEnd of bill\n\n");
-
-	return 0;
+  
+     return 0;
+	
 	
 } 

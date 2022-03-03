@@ -1,10 +1,7 @@
 #ifndef __BILL_H__
 #define __BILL_H__
-#include<stdio.h>
+#include <stdio.h>
 
-void login();
-void quantity();
-void billgeneration();
 
 #define Tea_PRICE 10.00
 #define SpecialTea_PRICE 20.00
@@ -12,10 +9,9 @@ void billgeneration();
 #define Milk_PRICE 15.00
 
 
-  const double Buscuit_PRICE = 10.00;
+    const double Buscuit_PRICE = 10.00;
 	const double Bun_PRICE = 5.00;
 	const double taxRate = 10.00; 
-{
 	int teaQTY;
 	int specialteaQTY;
 	int coffeeQTY;
@@ -34,6 +30,10 @@ void billgeneration();
 	float bill_Amount;
 	char name[250];
 	char cname[24];
-  char date[29];
-}
+    char date[29];
+
+void login();
+void quantity();
+void billgeneration();
+
 #endif
