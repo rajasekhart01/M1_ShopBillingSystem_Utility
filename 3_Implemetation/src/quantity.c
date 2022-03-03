@@ -4,22 +4,22 @@
 {
     printf("\n\t***Enter 0 for none****");
 
-	printf("\n no. of Teas \n");
+	printf("\n No. of Teas \n");
 	scanf("%d", &teaQTY);
 
-	printf(" no. of SpeacialTea \n");
+	printf(" No. of SpeacialTea \n");
 	scanf("%d", &specialteaQTY);
 
-	printf(" no. of coffees\n");
+	printf(" No. of coffees\n");
 	scanf("%d", &coffeeQTY);
 
-	printf(" no. of buscuits\n");
+	printf(" No. of buscuits\n");
 	scanf("%d", &buscuitQTY);
 
-	printf(" no. of buns \n");
+	printf(" No. of buns \n");
 	scanf("%d", &bunQTY);
 
-	printf(" no. of Milks \n");
+	printf(" No. of Milks \n");
 	scanf("%d", &milkQTY);
 	
     billgeneration();

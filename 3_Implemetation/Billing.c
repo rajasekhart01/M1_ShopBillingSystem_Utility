@@ -55,22 +55,22 @@ int main(void)
 	{
 	printf("\n\t***Enter 0 for none****");
 
-	printf("\n no. of Teas \n");
+	printf("\n No. of Teas \n");
 	scanf("%d", &teaQTY);
 
-	printf(" no. of SpeacialTea \n");
+	printf(" No. of SpeacialTea \n");
 	scanf("%d", &specialteaQTY);
 
-	printf(" no. of Coffees\n");
+	printf(" No. of Coffees\n");
 	scanf("%d", &coffeeQTY);
 
-	printf(" no. of Buscuits\n");
+	printf(" No. of Buscuits\n");
 	scanf("%d", &buscuitQTY);
 
-	printf(" no. of Buns \n");
+	printf(" No. of Buns \n");
 	scanf("%d", &bunQTY);
 	
-	printf(" no. of Milks \n");
+	printf(" No. of Milks \n");
 	scanf("%d", &milkQTY);
 }
 
