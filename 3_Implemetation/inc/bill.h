@@ -1,17 +1,17 @@
 #ifndef __BILL_H__
 #define __BILL_H__
-#include <stdio.h>
+#include "stdio.h"
 
-
-#define Tea_PRICE 10.00
-#define SpecialTea_PRICE 20.00
-#define Coffee_PRICE 15.00
-#define Milk_PRICE 15.00
+ #define Tea_PRICE 10.00
+ #define SpecialTea_PRICE 20.00
+ #define Coffee_PRICE 15.00
+ #define Milk_PRICE 15.00
 
 
     const double Buscuit_PRICE = 10.00;
 	const double Bun_PRICE = 5.00;
 	const double taxRate = 10.00; 
+
 	int teaQTY;
 	int specialteaQTY;
 	int coffeeQTY;

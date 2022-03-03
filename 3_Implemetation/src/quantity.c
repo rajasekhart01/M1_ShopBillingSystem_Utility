@@ -1,6 +1,6 @@
 #include "bill.h"
 
-    void quantity()
+void quantity()
 {
     printf("\n\t***Enter 0 for none****");
 
@@ -22,5 +22,5 @@
 	printf(" No. of Milks \n");
 	scanf("%d", &milkQTY);
 	
-    billgeneration();
+billgeneration();
 }

@@ -1,8 +1,7 @@
-#include"bill.h"
+#include "bill.h"
 
 void billgeneration()
-
-{
+ {
     total_tea = teaQTY * Tea_PRICE;
 	total_specialtea = specialteaQTY * SpecialTea_PRICE;
 	total_coffee = coffeeQTY * Coffee_PRICE;
@@ -12,4 +11,4 @@ void billgeneration()
 	subTotal = total_tea + total_specialtea + total_coffee + total_buscuit + total_bun+ total_milk;
 	tax = (subTotal * taxRate)/100;
 	bill_Amount = subTotal + tax;
-}
+ }

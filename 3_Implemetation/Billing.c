@@ -1,13 +1,15 @@
 #include "stdio.h"
 #include "conio.h"
 #include "inc/bill.h"
+#include "windows.h"
+
 
 #define Tea_PRICE 10.00
-#define SpecialTea_PRICE 20.00
+#define SpecialTe_PRICE 20.00
 #define Coffee_PRICE 15.00
 #define Milk_PRICE 15.00
 
-int main(void)
+int main()
  {
 	
 
@@ -37,7 +39,7 @@ int main(void)
 	char cname[24];
     char date[29];
 //	Statements
-
+ 
 	printf("\t\tWelcome To Raja cafe \n");
 	printf("\n Please Enter the following details. \n\n");
 	
@@ -51,7 +53,7 @@ int main(void)
 	scanf("%s",date);
     }
   
-	void Quantity();
+	void quantity();
 	{
 	printf("\n\t***Enter 0 for none****");
 
@@ -78,17 +80,18 @@ int main(void)
 	getch();
 
 
-printf("\n\n\n\t\t\t\t\tLOADING \n\t\t\t\t\t");
-int a;
+  printf("\n\n\n\t\t\t\t\tLOADING \n\t\t\t\t\t");
+  int a;
    	for( a=1;a<8;a++) // Change 'a<?' to how many * we want
 	{
 		printf("...");
 	}
       printf("\n\n\t\t\t\t\tBill Created \n\n");
       
-//	Calculation Statements
-void billgeneration();
 
+//	Calculation Statements
+   void billgeneration();
+   {
 	total_tea = teaQTY * Tea_PRICE;
 	total_specialtea = specialteaQTY * SpecialTea_PRICE;
 	total_coffee = coffeeQTY * Coffee_PRICE;
@@ -98,15 +101,15 @@ void billgeneration();
 	subTotal = total_tea + total_specialtea + total_coffee + total_buscuit + total_bun;
 	tax = (subTotal * taxRate)/100;
 	bill_Amount = subTotal + tax;
-
+	}
 
 //	Printing Bills
-    //void login();
+  
     //void quantity();
 	//void billgeneration();
-  
-    printf("\n");
-    printf("\t\t\t====================================================\n");
+
+printf("\n");
+printf("\t\t\t====================================================\n");
 	printf("\t\t\t\t      Raja Tea Stall Bill\n");
 	printf("\t\t\t====================================================\n");
 	printf("\t\t\tQTY \t Description \t Unit Price$\t Total Price$\n");
@@ -127,7 +130,6 @@ void billgeneration();
 	printf("\t\t\t====================================================\n\n");
 	printf("\t\t\t\t\t\tEnd of bill\n\n");
   
-     return 0;
-	
-	
+return 0;
+		
 } 

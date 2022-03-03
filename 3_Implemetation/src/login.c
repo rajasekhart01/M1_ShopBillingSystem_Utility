@@ -1,8 +1,7 @@
 #include "bill.h"
 
- void login()
-{ 
-	char name[15], cname[15], date[15];
+void login()
+  { 
     printf("administrator: \n");
 	scanf("%s",name);
 
@@ -11,6 +10,5 @@
 
 	printf("Date (dd/mm/yyyy)\n");
 	scanf("%s",date);
-	
-    quantity();
+quantity();
 }
