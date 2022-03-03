@@ -2,9 +2,16 @@
 
 <br>
 
-CPP Check | Git Inspector| Static Analysis| Unit Testing 
----------- |  ----------- | ---------------| ---------
-![cppcheck-action](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/actions/workflows/cppcheck.yml/badge.svg) | ![Git Inspector](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/actions/workflows/git_inspector.yml/badge.svg) | ![static-Analysis](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/actions/workflows/static-analysis.yml/badge.svg) | ![Unit Testing - Unity](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/actions/workflows/unit_testing.yml/badge.svg) |
+CPP Check | Git Inspector| Static Analysis 
+---------- |  ----------- | ---------------
+![cppcheck-action](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/actions/workflows/cppcheck.yml/badge.svg) | ![Git Inspector](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/actions/workflows/git_inspector.yml/badge.svg) | ![static-Analysis](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/actions/workflows/static-analysis.yml/badge.svg) |
+
+<br>
+
+Unit Testing | Static Check
+-------------|------------
+![Unit Testing - Unity](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/actions/workflows/unit_testing.yml/badge.svg) | ![C/C++ CI](https://github.com/rajasekhart01/M1_ShopBillingSystem_Utility/actions/workflows/Static_check.yml/badge.svg)
+
 
 <a href="https://app.codiga.io/public/user/github/rajasekhart01">
    <img src="https://api.codiga.io/public/badge/user/github/rajasekhart01?style=light" alt="codiga badge" />
